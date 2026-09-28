@@ -1,0 +1,6 @@
+{
+  "environment_url": "<your-development-environment-url>",
+  "solution_unique_name": "<actual-exported-solution-name>",
+  "publisher_prefix": "<actual-prefix>",
+  "dataset": "synthetic"
+}
